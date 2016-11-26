@@ -70,6 +70,18 @@
             "typingsPackageName": "simplesignal",
             "sourceRepoURL": "https://github.com/zeh/simplesignal",
             "asOfVersion": "1.0.0"
+        },
+		{
+            "libraryName": "timezonecomplete",
+            "typingsPackageName": "timezonecomplete",
+            "sourceRepoURL": "https://github.com/SpiritIT/timezonecomplete",
+            "asOfVersion": "1.3.1"
+        },
+		{
+            "libraryName": "ts-events",
+            "typingsPackageName": "ts-events",
+            "sourceRepoURL": "https://github.com/rogierschouten/ts-events",
+            "asOfVersion": "0.0.1"
         }
     ]
 }
